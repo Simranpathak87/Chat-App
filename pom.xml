@@ -57,7 +57,7 @@
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
 				<configuration>
-					<mainClass>com.chatapp.Inventorymanagement1Application</mainClass>
+					<mainClass>com.chatapp.chatApp</mainClass>
 				</configuration>
 			</plugin>
 		</plugins>
